@@ -1,0 +1,7 @@
+@media screen and (max-width:375px), (orientation: portrait){
+    .container {
+        display: grid;
+        grid-template-columns: auto;
+        width: 80%;
+    }
+}
